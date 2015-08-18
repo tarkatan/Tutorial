@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "MessengerRWH", "MessengerRWH\MessengerRWH.ssmssqlproj", "{FA2938F9-1D80-4BEF-AD63-F18968E32284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2938F9-1D80-4BEF-AD63-F18968E32284}.Default|Default.ActiveCfg = Default
+		{F8D5625B-FA4F-4E39-A862-B1151F8CD213}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
